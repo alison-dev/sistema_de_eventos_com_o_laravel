@@ -10,10 +10,13 @@ O projeto sistema de eventos com o laravel é constituído por eventos de usuár
 ![Mobile_1](https://github.com/alison-dev/wdpshoes/blob/master/mobile1/2021-09-27%20(8).png) ![Mobile_2](https://github.com/alison-dev/wdpshoes/blob/master/mobile2/2021-09-27%20(10).png)
 
 ## Layout web
-![Web_1](https://github.com/alison-dev/wdpshoes/blob/master/web1/2021-09-27.png)
+![Web_1](https://github.com/alison-dev/sistema_de_eventos_com_o_laravel/blob/master/images_project/image1.png)
 
-![Web_2](https://github.com/alison-dev/wdpshoes/blob/master/web2/2021-09-27%20(2).png)
+![Web_2](https://github.com/alison-dev/sistema_de_eventos_com_o_laravel/blob/master/images_project/image2.png)
 
+![Web_3](https://github.com/alison-dev/sistema_de_eventos_com_o_laravel/blob/master/images_project/image3.png)
+
+![Web_4](https://github.com/alison-dev/sistema_de_eventos_com_o_laravel/blob/master/images_project/image4.png)
 
 # Tecnologias utilizadas
 ## Back end
