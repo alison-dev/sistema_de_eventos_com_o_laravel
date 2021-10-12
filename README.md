@@ -18,6 +18,7 @@ O projeto sistema de eventos com o laravel é constituído por eventos de usuár
 # Tecnologias utilizadas
 ## Back end
 - PHP
+- MYSQL
 
 ## Front end
 - HTML5
